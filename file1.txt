@@ -1,3 +1,3 @@
 Welcome to INFO 442 Week 2.
-I'm eating pizza.
+I'm eating hot pizza.
 Hopefully rebasing can help in collaboration!
